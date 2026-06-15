@@ -10,3 +10,4 @@ Teaching, Notes, Research and Software Tools
 
 - Classical Lamination Theory (CLT), ABD matrices: [clt/](https://github.com/alfonsopagani/clt)
 - FEM code of a piping system: [femtubi/](https://github.com/alfonsopagani/femtubi)
+- Bending of anisotropic bars, from Lekhnitskii's "Anisotropic Plates" textbook: [femtubi/](https://github.com/alfonsopagani/lek)
