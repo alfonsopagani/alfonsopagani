@@ -4,7 +4,7 @@ Teaching, Notes, Research and Software Tools
 
 ## Teaching 🚀
 
-- Strutture per veicoli spaziali (Spacecraft Structures): [svs/](https://github.com/alfonsopagani/svs)
+- Strutture per veicoli spaziali: [svs/](https://github.com/alfonsopagani/svs)
 
 ## Codes 🧮
 
