@@ -5,7 +5,7 @@ Academic teaching materials, research codes and numerical tools.
 ## Teaching 🚀
 
 - **Strutture per Veicoli Spaziali**
-  - Course website: [alfonsopagani.github.io/svs/](https://alfonsopagani.github.io/svs/)
+  - Course website: <a href="https://alfonsopagani.github.io/svs/" target="_blank" rel="noopener">alfonsopagani.github.io/svs/</a>
   - Repository: [svs/](https://github.com/alfonsopagani/svs)
 
 ## Software & Codes 🧮
