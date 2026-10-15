@@ -15,3 +15,4 @@ Academic teaching materials, research codes and numerical tools.
 - Bending of anisotropic bars, from Lekhnitskii's *Anisotropic Plates* textbook: [lek/](https://github.com/alfonsopagani/lek)
 - Launch Decompression Calculator: [spcdeco/](https://github.com/alfonsopagani/spcdeco)
 - Aircraft Decompression Loads Calculator: [airdeco/](https://github.com/alfonsopagani/airdeco)
+- Preliminary Design of a Mars Pressurized Rover: [roversizing](https://github.com/alfonsopagani/roversizing)
